@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Most of my GitHub stuff is private, but feel free to follow me on [twitter](https://x.com/a_ramabadran) to hear some of my thoughts, or visit my website [here](https://aditya-ramabadran.github.io/) for more about me and some blog posts!
+
 <!--
 **aditya-ramabadran/aditya-ramabadran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
